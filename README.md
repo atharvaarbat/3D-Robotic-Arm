@@ -1,7 +1,7 @@
 # Three.js Interactive Arm Control Project
 
 This project is a 3D interactive application built with React, `@react-three/fiber`, and `@react-three/drei` to render and control a 3D model of an arm. Users can manipulate various joints and the radial distance of the arm's tip from the center through a set of sliders.
-
+![](https://github.com/atharvaarbat/3D-Robotic-Arm/blob/main/public/robotic-arm.jpg?raw=true)
 ## Table of Contents
 
 - [Installation](#installation)
